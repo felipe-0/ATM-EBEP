@@ -10,6 +10,7 @@ import com.atm.software.Usuario;
 public class BancoDeDados {
 	
 	List<ContaCorrente> contas = new ArrayList<ContaCorrente>();
+	//alterado por felipe
 	
 	public BancoDeDados() {
 		Usuario titularC1 = new Usuario("José Maria", "02525-2");
